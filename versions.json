@@ -1,0 +1,43 @@
+{
+    "latest_version": "1.0.0",
+    "bridge_version": "1.0.0",
+    "scripts": {
+        "ad_bridge": {
+            "version": "1.0.0",
+            "required": true,
+            "changelog": "Système de bridge universel"
+        },
+        "ad_core": {
+            "version": "1.0.0",
+            "required": false,
+            "changelog": "Core system mis à jour"
+        },
+        "ad_medical": {
+            "version": "1.0.0",
+            "required": false,
+            "changelog": "Système médical complet"
+        },
+        "ad_zombies": {
+            "version": "1.0.0",
+            "required": false,
+            "changelog": "Zombies avec infections"
+        },
+        "ad_items": {
+            "version": "1.0.0",
+            "required": false,
+            "changelog": "Items personnalisés"
+        },
+        "ad_loot": {
+            "version": "1.0.0",
+            "required": false,
+            "changelog": "Système de loot avancé"
+        },
+        "ad_vehicles": {
+            "version": "1.0.0",
+            "required": false,
+            "changelog": "Réparation de véhicules"
+        }
+    },
+    "update_url": "https://votre-site.com/updates",
+    "last_update": "2025-12-06"
+}
