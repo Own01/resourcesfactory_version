@@ -1,49 +1,49 @@
 {
-    "latest_version": "2.0.0",
-    "bridge_version": "2.0.0",
+    "latest_version": "1.0.0",
+    "bridge_version": "1.0.0",
     "scripts": {
         "rf_bridge": {
-            "version": "2.0.0",
+            "version": "1.0.0",
             "required": true,
             "changelog": "Système de bridge universel - callbacks, states, scripts, NUI"
         },
         "rf_core": {
-            "version": "2.0.0",
+            "version": "1.0.0",
             "required": false,
             "changelog": "Core system - ajout module waypoint"
         },
         "rf_medical": {
-            "version": "2.0.0",
+            "version": "1.0.0",
             "required": false,
             "changelog": "Système médical - death screen, NUI et locale"
         },
         "rf_zombies": {
-            "version": "2.0.0",
+            "version": "1.0.0",
             "required": false,
             "changelog": "Zombies - spawn system, locales et DLC"
         },
         "rf_items": {
-            "version": "2.0.0",
+            "version": "1.0.0",
             "required": false,
             "changelog": "Items - ajout binoculars, NUI et locales"
         },
         "rf_loot": {
-            "version": "2.0.0",
+            "version": "1.0.0",
             "required": false,
             "changelog": "Système de loot - locales, modules et data"
         },
         "rf_vehicles": {
-            "version": "2.0.0",
+            "version": "1.0.0",
             "required": false,
             "changelog": "Véhicules - craft, ownership, padlock et NUI"
         },
         "rf_weather": {
-            "version": "2.0.0",
+            "version": "1.0.0",
             "required": false,
             "changelog": "Système météo - NUI et améliorations"
         },
         "rf_heli_crash": {
-            "version": "2.0.0",
+            "version": "1.0.0",
             "required": false,
             "changelog": "Heli crash - locales, stash et système de props"
         },
